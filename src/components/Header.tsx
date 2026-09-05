@@ -9,7 +9,7 @@ const Header: React.FC = () => {
         <ThemeToggle />
       </div>
       <img 
-        src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim7dN655q4xWgS-Y5SzI94ZaB35LX6DOSVVJ-FirzuMx_br9n3iOL95F7qBA4c7XdmFhG7QxRQddznSETleVxYo8W6RC6GOifKOgv4iDxlnbx8nrQCgJ2iapGF7Tl-LM-AtjIo_TnLdlbQkI_eqUp0zvgQl2NOQmnLQEoQWm6lCUUvzoGUGPfo-rQuUz8/s320/Gemini_Generated_Image_cs35jgcs35jgcs35.jpeg" 
+        src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4HZM-U3T8OmbhBk3HF85eWcU4SSPOn_THPrdkxuq1x4mIRYAtqQrBoZslObm-bTBKzyGUYgUuFrXblo4XuckRRcBJCvGamlHdkjZ55rSNZv7BjOWBJlDwhGRKp54qLZkHJMQ13CQtvHCHxBjM5TB5S5kCv5KfcfWLUuDpHaMNZVSPzI_nAwRWZ_ctDs/s320/ChatGPT%20Image%205%20sept%202026,%2010_17_24.png" 
         className="w-80 h-auto max-w-full block mx-auto mb-4 rounded-lg object-cover" 
         alt="Salidas Grupo"
       />
